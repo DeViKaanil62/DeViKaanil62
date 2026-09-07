@@ -55,7 +55,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DeViKaanil62&show_icons=true&theme=radical&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeViKaanil62&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeViKaanil62&repo=YOUR_REPO_NAME&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeViKaanil62&layout=compact&theme=radical&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DeViKaanil62&layout=compact&theme=radical&hide_border=true" />
 </p>
