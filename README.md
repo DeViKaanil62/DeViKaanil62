@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Hey 👋 I'm Devika</h3>
+  <h3>Hey 👋 I'm Devika Anil Kumar</h3>
   <p></p>
 </div>
 
@@ -18,6 +18,6 @@
 
 **📊 Activity Overview**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DeViKaanil62&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeViKaanil62&theme=radical&hide_border=true" />
 </p>
