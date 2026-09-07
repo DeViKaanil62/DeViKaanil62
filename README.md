@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
+  <h3>Hey 👋 I'm Devika</h3>
+  <p></p>
+</div>
 
-<!--
-**DeViKaanil62/DeViKaanil62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**📌 About Me**
+* 🔭
+* 💻
+* 🎮 
+* 🌱 
 
-Here are some ideas to get you started:
+**💻 Technical Skills**
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**📊 Activity Overview**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" />
+</p>
